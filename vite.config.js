@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-    base: '/BulmaCss_ValeriaPerdomo/'
+    base: '/velocity-run/'
 })
